@@ -1,7 +1,7 @@
 {
   "name": "ga-custom",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "description": "Google Analytics hooks",
   "author": "Kibuto",
   "keywords": ["react", "ga"],
