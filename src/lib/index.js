@@ -1,3 +1,3 @@
-import { useRouter } from "./hooks/useRouter";
+import { useUpdateEffect } from "./hooks/useUpdateEffect";
 
-export { useRouter };
+export { useUpdateEffect };
